@@ -3,7 +3,7 @@
 * Do Not use the instructions as your guide for what code to type, use the reference guide project (address book)
 
 ### App.js
-* Import BrowserHistory and Route from react-router-dom
+* Import BrowserRouter and Route from react-router-dom
 * Import components needed
 * Create the appropriate routes `{/* PUT YOUR ROUTES HERE */}`
 
