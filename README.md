@@ -1,11 +1,14 @@
 ### Setup
 * Fork, Clone, yarn install, yarn start
 * Do Not use the instructions as your guide for what code to type, use the reference guide project (address book)
+* Slight quirk - refreshing doesn't work from any path other than the default one so you will have to go back to the default path to refresh
 
 ### App.js
-* Import BrowserRouter and Route from react-router-dom
+* Import BrowserRouter,Switch and Route from react-router-dom
 * Import components needed
 * Create the appropriate routes `{/* PUT YOUR ROUTES HERE */}`
+* Make sure the default route goes at the bottom
+* Make sure BrowserRouter wraps everything
 
 ### Routes
 * /              -> Dashboard

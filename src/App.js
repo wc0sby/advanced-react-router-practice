@@ -1,7 +1,6 @@
 import React from "react";
 import TopNav from "./components/TopNav";
 import SideNav from "./components/SideNav";
-import {Browserhis}
 
 function App() {
   return (
@@ -11,7 +10,9 @@ function App() {
           <TopNav />
           <SideNav />
         </nav>
-        {/* PUT YOUR ROUTES HERE */}
+        <div style={{backgroundColor: "white"}}>
+          {/* PUT YOUR ROUTES HERE */}
+        </div>
       </div>
     </div>
 
