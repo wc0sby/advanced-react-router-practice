@@ -8,14 +8,14 @@
 * Create the appropriate routes `{/* PUT YOUR ROUTES HERE */}`
 
 ### Routes
-* /               -> Dashboard
-* /charts     -> Charts
-* /tables     -> Tables
-* /settings  -> Settings
-* /wall        -> Wall
-* /profiles   -> Profiles
-* /marquee/:text-> Marquee
-* /profile/:id -> Profile
+* /              -> Dashboard
+* /charts        -> Charts
+* /tables        -> Tables
+* /settings      -> Settings
+* /wall          -> Wall
+* /profiles      -> Profiles
+* /marquee/:text -> Marquee
+* /profile/:id   -> Profile
 
 ### Create these components. The content of the components is not important, just put anything `<div> whatever </div>`
 * Charts.js
