@@ -26,7 +26,7 @@
 ### Existing components
 * Profiles.js
     * Import Link from react-router-dom
-    * change the `<a>` to be a Link that links to /profile/ + user.id
+    * change the `<a>` to be a Link that links to `/profile/ + user.id`
 * Profile.js 
     * Change the hard coded 0 with the value from the parameter id
 * Dashboard.js
