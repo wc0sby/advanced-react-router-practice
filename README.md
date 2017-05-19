@@ -9,6 +9,7 @@
 * Create the appropriate routes `{/* PUT YOUR ROUTES HERE */}`
 * Make sure the default route goes at the bottom
 * Make sure BrowserRouter wraps everything
+* Make sure you use the component prop, not render.
 
 ### Routes
 * /              -> Dashboard
@@ -38,7 +39,7 @@
 
 ### SideNav
 * Import Link from react-router-dom
-* Create links to all the routes
+* Create links to all the routes except Profile
 * Hard code some links to Marquee
     * /marquee/iloveroutes
     * /marquee/reactrouterrules
