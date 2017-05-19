@@ -34,7 +34,7 @@
     * Change the hard coded 0 with the value from the parameter id
 * Dashboard.js
 * Marquee
-    * replace the comment with the text parameter from the route
+    * replace the hard coded "hello" with the text parameter from the route
 
 ### SideNav
 * Import Link from react-router-dom
