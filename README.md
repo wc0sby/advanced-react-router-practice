@@ -1,6 +1,5 @@
 ### Setup
 * Fork, Clone, yarn install, yarn start
-* Do Not use the instructions as your guide for what code to type, use the reference guide project (address book)
 * Slight quirk - refreshing doesn't work from any path other than the default one so you will have to go back to the default path to refresh
 
 ### App.js
